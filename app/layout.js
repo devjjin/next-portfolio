@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'jjin portfolio',
   description: '수진의 포트폴리오',
-  keywords: ["포트폴리오", "리액트", "넥스트", "devjjin", "portfolio","devjjin"],
+  keywords: ['포트폴리오', '리액트', '넥스트', '수진', 'portfolio', ''],
 }
 
 export default function RootLayout({ children }) {
